@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\vistaCubo.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:vistaCubo.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Proveedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:Dim Proveedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Cliente.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:Dim Cliente.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Sucursal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:Dim Sucursal.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Vendedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:Dim Vendedor.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Producto.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:Dim Producto.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\vistaCubo.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{633F1FAC-FEC7-126A-D5A2-866D48AADBF3}|ProyectoMultidimensional1.dwproj|solutionrelative:vistaCubo.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vistaCubo.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\vistaCubo.cube",
+              "RelativeDocumentMoniker": "vistaCubo.cube",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\vistaCubo.cube [Dise\u00F1o]",
+              "RelativeToolTip": "vistaCubo.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:47:41.937Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Sucursal.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Sucursal.dim",
+              "RelativeDocumentMoniker": "Dim Sucursal.dim",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Sucursal.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Sucursal.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:43:33.717Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Cliente.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Cliente.dim",
+              "RelativeDocumentMoniker": "Dim Cliente.dim",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Cliente.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Cliente.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:42:57.4Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Proveedor.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Proveedor.dim",
+              "RelativeDocumentMoniker": "Dim Proveedor.dim",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Proveedor.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Proveedor.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:42:30.5Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Producto.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Producto.dim",
+              "RelativeDocumentMoniker": "Dim Producto.dim",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Producto.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Producto.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:41:53.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Vendedor.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Vendedor.dim",
+              "RelativeDocumentMoniker": "Dim Vendedor.dim",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Vendedor.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Vendedor.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:43:56.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Fecha.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Fecha.dim",
+              "RelativeDocumentMoniker": "Dim Fecha.dim",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\Dim Fecha.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Fecha.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:40:45.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vistaCubo.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\vistaCubo.dsv",
+              "RelativeDocumentMoniker": "vistaCubo.dsv",
+              "ToolTip": "C:\\Users\\dougd\\Documents\\Seminario2\\SS2_S22025_201122881\\Practica 2\\ProyectoMultidimensional1\\vistaCubo.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "vistaCubo.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T06:39:30.831Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

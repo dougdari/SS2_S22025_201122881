@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DOUGLAS</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEPN9MCK5nkK2+oX+9nSfBQAAAAACAAAAAAAQZgAAAAEAACAAAAAQlP4+SXTcQAuwcrMpHVYLXvSbX/eS15gTg87XkOjXmwAAAAAOgAAAAAIAACAAAAA5ACAYl40n9teuzwpQPx5nimsqv1/UrK5ssKhTtoNc3pAAAAB1WvjMWBFq0xYEUBJ6E6OuVTWwOlt85dnj7/eYmqN6lvRDHxUg5Hp183VzQdxQcueHuwjzurxn+VrQedH7DcnpPmEztr/Le9BBKB2ikGUq+XwFtuJSimyFJtjsycqY22jq0YwGaNukRixVL6UnG9P/JAij6rS/OiYgDzZ9s1k3D0h+MQwnnBu+1MaLCc5SWsFAAAAAH/oGy5y0/rXxfKfQkwLyPk8nhFzNr4BcDwjudMg6zvwb5HCAouw1Pe9CYgaA7tMBmpmlhpJ2hiNSAbC/T70TZg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEPN9MCK5nkK2+oX+9nSfBQAAAAACAAAAAAAQZgAAAAEAACAAAAD9KsTrX8Q2rsuwLApOCn+eWy96+7hzbU7dK5cjTw49TgAAAAAOgAAAAAIAACAAAACg6uGZtDSGHFuprNsRdWryuA0gjKwBJ3c7PoksUgmoyZAAAADqPHJ6io9YD8Tjo5ZuIVFfnP3iuoHagErE2VCylcWKw7vZxhjqs9x68m6RVGJPwbOzCyh5k24AyglASBnfIVCnScSTZ83D3PTqZnDRNlRQigR/02V93IAb876VpoGbOSoDe0Es2xAmXSgECV+9gleXLMbqLetVBr0TDsWps6plpZf7ImLac9Ieb5F9YpUD+qJAAAAAupjdy0zGqXejktREDmL172hHwoOUoSo0ctGaRQ580Vaz4eIwhfZW/XtNr3+X1ivIatvAO/E0XyJFcHDoiszTvA==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">32</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">86</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{478CF367-B142-4785-81A1-A118BEA17A12}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{40FCDB64-0A88-4E33-A491-C9704077EFD5}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -214,6 +214,8 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">
+                    </SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -409,6 +411,8 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">
+                    </SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -468,7 +472,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Data Source=Douglas;Initial Catalog=practica1semi2;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Package-{3F7FF290-0B71-43FF-989A-3B1681A9BF3A}Douglas.practica1semi2;Auto Translate=False;</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Data Source=Douglas;Initial Catalog=practica1semi2;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package-{3F7FF290-0B71-43FF-989A-3B1681A9BF3A}Douglas.practica1semi2;</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
